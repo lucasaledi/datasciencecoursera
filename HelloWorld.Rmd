@@ -1,0 +1,12 @@
+---
+title: "Hello R World"
+author: "Lucas Basilio Aledi"
+date: '2022-03-26'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
